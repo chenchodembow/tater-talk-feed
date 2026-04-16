@@ -8,7 +8,7 @@
     <link>https://projexconsultants.com/</link>
     <description>Auto-generated social media posts for The Tater Talk Podcast with Mike DeLong</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2026 13:46:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 14:04:43 GMT</lastBuildDate>
     <image>
       <url>https://projexconsultants.com/favicon.ico</url>
       <title>Tater Talk Podcast</title>
@@ -29,9 +29,9 @@ LISTEN NOW! 🔗 https://youtu.be/n6AP6Q12rak
       <guid isPermaLink="false">tater-talk-ep-11</guid>
       <author>Viking Kristjansson</author>
       <itunes:episode>16</itunes:episode>
-      <enclosure url="https://img.youtube.com/vi/n6AP6Q12rak/maxresdefault.jpg" type="image/jpeg" length="0" />
-      <media:content url="https://img.youtube.com/vi/n6AP6Q12rak/maxresdefault.jpg" type="image/jpeg" medium="image" />
-      <itunes:image href="https://img.youtube.com/vi/n6AP6Q12rak/maxresdefault.jpg" />
+      <enclosure url="https://chenchodembow.github.io/tater-talk-feed/images/ep-11-social.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://chenchodembow.github.io/tater-talk-feed/images/ep-11-social.jpg" type="image/jpeg" medium="image" />
+      <itunes:image href="https://chenchodembow.github.io/tater-talk-feed/images/ep-11-social.jpg" />
     </item>
   </channel>
 </rss>
