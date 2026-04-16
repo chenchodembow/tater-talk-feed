@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tater Talk Podcast — Social Posts</title>
+    <link>https://projexconsultants.com/</link>
+    <description>Auto-generated social media posts for The Tater Talk Podcast with Mike DeLong</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Apr 2026 13:46:15 GMT</lastBuildDate>
+    <image>
+      <url>https://projexconsultants.com/favicon.ico</url>
+      <title>Tater Talk Podcast</title>
+      <link>https://projexconsultants.com/</link>
+    </image>
+
+    <item>
+      <title>Beyond The Surface: Why Drainage Is Essential Food Safety Equipment With Viking Kristjansson</title>
+      <link>https://youtu.be/n6AP6Q12rak</link>
+      <description>𝗧𝗵𝗲 𝗧𝗮𝘁𝗲𝗿 𝗧𝗮𝗹𝗸 𝗣𝗼𝗱𝗰𝗮𝘀𝘁 𝗘𝗽 𝟏𝟔 𝗶𝘀 𝗼𝘂𝘁 𝗻𝗼𝘄! 🎙️🍟
+
+Ever considered how critical your drains are to food safety? This episode features Viking Kristjansson from Global Drain Technologies, who reveals why proper drainage is essential for preventing pathogens and maintaining plant cleanliness. He shares his fascinating journey and how his company is innovating solutions to common industry problems, ensuring safer food processing for everyone.
+
+LISTEN NOW! 🔗 https://youtu.be/n6AP6Q12rak
+
+#PotatoIndustry #AgTech #FoodProcessing #InnovationInAg #GlobalAgri #FoodManufacturing #SupplyChain #AgricultureWorldwide</description>
+      <pubDate>Thu, 16 Apr 2026 13:36:01 GMT</pubDate>
+      <guid isPermaLink="false">tater-talk-ep-11</guid>
+      <author>Viking Kristjansson</author>
+      <itunes:episode>16</itunes:episode>
+      <enclosure url="https://img.youtube.com/vi/n6AP6Q12rak/maxresdefault.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://img.youtube.com/vi/n6AP6Q12rak/maxresdefault.jpg" type="image/jpeg" medium="image" />
+      <itunes:image href="https://img.youtube.com/vi/n6AP6Q12rak/maxresdefault.jpg" />
+    </item>
+  </channel>
+</rss>
