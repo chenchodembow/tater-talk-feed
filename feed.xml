@@ -8,7 +8,7 @@
     <link>https://projexconsultants.com/</link>
     <description>Auto-generated social media posts for The Tater Talk Podcast with Mike DeLong</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2026 14:17:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 00:25:16 GMT</lastBuildDate>
     <image>
       <url>https://projexconsultants.com/favicon.ico</url>
       <title>Tater Talk Podcast</title>
@@ -32,6 +32,25 @@ LISTEN NOW! 🔗 https://youtu.be/n6AP6Q12rak
       <enclosure url="https://chenchodembow.github.io/tater-talk-feed/images/ep-11-social.jpg" type="image/jpeg" length="0" />
       <media:content url="https://chenchodembow.github.io/tater-talk-feed/images/ep-11-social.jpg" type="image/jpeg" medium="image" />
       <itunes:image href="https://chenchodembow.github.io/tater-talk-feed/images/ep-11-social.jpg" />
+    </item>
+
+    <item>
+      <title>From Pharma to Fries: Eyal Pauker on Scaling Complex Food Operations</title>
+      <link>https://youtu.be/fqL8AWKJqJE</link>
+      <description>𝗧𝗵𝗲 𝗧𝗮𝘁𝗲𝗿 𝗧𝗮𝗹𝗸 𝗣𝗼𝗱𝗰𝗮𝘀𝘁 𝗘𝗽 𝟏𝟖 𝗶𝘀 𝗼𝘂𝘁 𝗻𝗼𝘄! 🎙️🍟
+
+Dive into the fascinating journey of Eyal Pauker from Green Frost Food, who transitioned from scaling complex pharmaceutical operations to rapidly expanding a French fry factory in Israel. Learn how his unique background informs his approach to accelerating major industrial projects and the surprising evolution of the Israeli food processing industry. This episode offers valuable insights into efficient growth and strategic manufacturing in challenging times.
+
+LISTEN NOW! 🔗 https://youtu.be/fqL8AWKJqJE
+
+#PotatoIndustry #AgTech #FoodProcessing #InnovationInAg #GlobalAgri #FoodManufacturing #SupplyChain #AgricultureWorldwide</description>
+      <pubDate>Wed, 27 May 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tater-talk-ep-12</guid>
+      <author>Eyal Pauker</author>
+      <itunes:episode>18</itunes:episode>
+      <enclosure url="https://chenchodembow.github.io/tater-talk-feed/images/ep-12-social.png" type="image/png" length="0" />
+      <media:content url="https://chenchodembow.github.io/tater-talk-feed/images/ep-12-social.png" type="image/png" medium="image" />
+      <itunes:image href="https://chenchodembow.github.io/tater-talk-feed/images/ep-12-social.png" />
     </item>
   </channel>
 </rss>
