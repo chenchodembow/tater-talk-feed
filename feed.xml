@@ -8,7 +8,7 @@
     <link>https://projexconsultants.com/</link>
     <description>Auto-generated social media posts for The Tater Talk Podcast with Mike DeLong</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 14:04:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 20:36:30 GMT</lastBuildDate>
     <image>
       <url>https://projexconsultants.com/favicon.ico</url>
       <title>Tater Talk Podcast</title>
@@ -70,6 +70,25 @@ LISTEN NOW! 🔗 [YouTube Link]
       <enclosure url="https://chenchodembow.github.io/tater-talk-feed/images/ep-13-social.png" type="image/png" length="0" />
       <media:content url="https://chenchodembow.github.io/tater-talk-feed/images/ep-13-social.png" type="image/png" medium="image" />
       <itunes:image href="https://chenchodembow.github.io/tater-talk-feed/images/ep-13-social.png" />
+    </item>
+
+    <item>
+      <title>New Tater Talk Episode</title>
+      <link>https://projexconsultants.com/</link>
+      <description>𝗧𝗵𝗲 𝗧𝗮𝘁𝗲𝗿 𝗧𝗮𝗹𝗸 𝗣𝗼𝗱𝗰𝗮𝘀𝘁 𝗘𝗽 𝟐𝟎 𝗶𝘀 𝗼𝘂𝘁 𝗻𝗼𝘄! 🎙️🍟
+
+Discover the unsung hero of food processing in this insightful episode! Guests Tristan Scoble and Scott Klockow from Urschel Laboratories reveal how cutting technology significantly impacts yield, quality, and profitability. Learn why the precision of a cut can make or break your product, and gain valuable insights that could transform your operations.
+
+🔗 Check out the link in the comments!
+
+#PotatoIndustry #AgTech #FoodProcessing #InnovationInAg #GlobalAgri #FoodManufacturing #SupplyChain #AgricultureWorldwide</description>
+      <pubDate>Wed, 24 Jun 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tater-talk-ep-14</guid>
+      <author>Tristan Scoble &amp; Scott Klockow</author>
+      <itunes:episode>20</itunes:episode>
+      <enclosure url="https://chenchodembow.github.io/tater-talk-feed/images/ep-14-social.png" type="image/png" length="0" />
+      <media:content url="https://chenchodembow.github.io/tater-talk-feed/images/ep-14-social.png" type="image/png" medium="image" />
+      <itunes:image href="https://chenchodembow.github.io/tater-talk-feed/images/ep-14-social.png" />
     </item>
   </channel>
 </rss>
