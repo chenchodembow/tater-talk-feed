@@ -8,7 +8,7 @@
     <link>https://projexconsultants.com/</link>
     <description>Auto-generated social media posts for The Tater Talk Podcast with Mike DeLong</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 20:36:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 15:33:19 GMT</lastBuildDate>
     <image>
       <url>https://projexconsultants.com/favicon.ico</url>
       <title>Tater Talk Podcast</title>
@@ -89,6 +89,25 @@ Discover the unsung hero of food processing in this insightful episode! Guests T
       <enclosure url="https://chenchodembow.github.io/tater-talk-feed/images/ep-14-social.png" type="image/png" length="0" />
       <media:content url="https://chenchodembow.github.io/tater-talk-feed/images/ep-14-social.png" type="image/png" medium="image" />
       <itunes:image href="https://chenchodembow.github.io/tater-talk-feed/images/ep-14-social.png" />
+    </item>
+
+    <item>
+      <title>New Tater Talk Episode</title>
+      <link>https://projexconsultants.com/</link>
+      <description>𝗧𝗵𝗲 𝗧𝗮𝘁𝗲𝗿 𝗧𝗮𝗹𝗸 𝗣𝗼𝗱𝗰𝗮𝘀𝘁 𝗘𝗽 𝟐𝟏 𝗶𝘀 𝗼𝘂𝘁 𝗻𝗼𝘄! 🎙️🍟
+
+Dive into the vital world of US ag exports with our special guest, Tess Acosta-Watkins, founder of TradeUP Global Agritrade Consulting. With 34 years at the USDA, including two decades as a trade specialist, Tess shares her incredible journey from clearing international cargo to becoming a founding member of the Department of Homeland Security. This episode offers unparalleled insights into global trade readiness and the meticulous process behind getting agricultural products across borders.
+
+🔗 Check out the link in the comments!
+
+#PotatoIndustry #AgTech #FoodProcessing #InnovationInAg #GlobalAgri #FoodManufacturing #SupplyChain #AgricultureWorldwide</description>
+      <pubDate>Thu, 02 Jul 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tater-talk-ep-15</guid>
+      <author>Tess Acosta-Watkins</author>
+      <itunes:episode>21</itunes:episode>
+      <enclosure url="https://chenchodembow.github.io/tater-talk-feed/images/ep-15-social.png" type="image/png" length="0" />
+      <media:content url="https://chenchodembow.github.io/tater-talk-feed/images/ep-15-social.png" type="image/png" medium="image" />
+      <itunes:image href="https://chenchodembow.github.io/tater-talk-feed/images/ep-15-social.png" />
     </item>
   </channel>
 </rss>
